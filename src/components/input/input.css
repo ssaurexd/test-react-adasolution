@@ -1,0 +1,16 @@
+.input-text {
+	padding: 14px 20px;
+	border-radius: 2px;
+	border: 1px solid #ccc;
+	font-size: 1rem;
+	background-color: var(--bg-list);
+}
+
+.input-text:focus {
+	outline: none;
+	border: 1px solid var(--primary-color);
+}
+
+.input-text-label {
+	color: #000;
+}
